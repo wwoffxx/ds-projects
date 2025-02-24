@@ -1,1 +1,7 @@
-# Data Science Projects Portfolio\n\nСобрание моих проектов по Data Science.
+# Data Science Projects Portfolio
+
+## 📁 Проекты
+
+| 📂 Проект | 📋 Описание |
+|-----------|------------|
+| [Software Commerce](./projects/software_commerce) | Анализ данных электронной коммерции. |
